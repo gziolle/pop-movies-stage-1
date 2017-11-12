@@ -1,0 +1,14 @@
+<!--
+  ~ Created by Guilherme Ziolle
+  ~ Copyright (c) 2017. All rights reserved
+  -->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_size">36sp</dimen>
+    <dimen name="movie_poster_width">185dp</dimen>
+    <dimen name="movie_poster_height">277dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="land_margin">64dp</dimen>
+</resources>

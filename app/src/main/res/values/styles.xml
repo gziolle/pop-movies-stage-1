@@ -1,0 +1,15 @@
+<!--
+  ~ Created by Guilherme Ziolle
+  ~ Copyright (c) 2017. All rights reserved
+  -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dark_grey</item>
+        <item name="colorPrimaryDark">@color/very_dark_grey</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<!--
+  ~ Created by Guilherme Ziolle
+  ~ Copyright (c) 2017. All rights reserved
+  -->
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iv_poster"
+    android:layout_width="@dimen/movie_poster_width"
+    android:layout_height="@dimen/movie_poster_height" />
